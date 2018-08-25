@@ -1,0 +1,8 @@
+sample.txt
+
+Hello
+This is my new file
+I am the Beginner of the file
+my name is uma sankar
+
+
